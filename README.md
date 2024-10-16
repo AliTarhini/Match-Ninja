@@ -10,9 +10,9 @@ Upgraded to work on UNITY Version 2022.3.49f1
 <br>
 <br>
 Copyright © 2024 ALI TARHINI
-<br>
-Permission is hereby granted for individuals to contribute to this project. However, 
-no permission is granted for the reproduction, distribution, modification, or use of this software in any way other than for contribution purposes. 
+<br><br>
+Permission is hereby granted for individuals to contribute to this project. However, <br>
+no permission is granted for the reproduction, distribution, modification, or use of this software in any way other than for contribution purposes. <br>
 All contributions are subject to approval and may be licensed solely by the original author(s).
-<br>
+<br><br>
 I'd love any conributions to my game! I believe it we had some Ads misplacements back then and some leaderboard fixing is required, there's also an unnecessary overweight problems in files.

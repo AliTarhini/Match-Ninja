@@ -1,4 +1,4 @@
-# Match Ninja™ is a Fruit Ninja identical and fully developed game, but hasn't been updated for in a very long time.
+# Match Ninja™ is a Fruit Ninja identical and fully developed game, but hasn't been updated in a very long time.
 <br>
 Updated Just now to work on UNITY Version 2022.3.49f1
 <br>

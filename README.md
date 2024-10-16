@@ -1,4 +1,4 @@
-# Match Ninja™ is a fully developed game, but not updated for a long time. & is Similar to Fruit Ninja.
+# Match Ninja™ is a Fruit Ninja identical and fully developed game, but hasn't been updated for in a very long time.
 <br>
 <img src="https://image.winudf.com/p/aHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9WRGVEMGZjZVh1NURpWTR6OUlBMGRDU2tYNUY1OWxQT1JSdG9aWkpiQmlwRUFnWS0zZVlBLUVDU0gtbXExOWZVc3c9aDgwMA?k=4ffb8241bb862abded3746de34a6aa1c671d1008&.jpg" width="822" height="400"></img>
 <img src="https://image.winudf.com/p/aHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9SNjZJTHdVbUpyNWFaX3VWSncyNjFMVDQxaFYtU2dIaXByMUhoaERHcmZtb21rX0U0blVWX1oyZm9MZjBmVXNNMklrPWg4MDA?k=f7879ef6bdea6335e47525a0fa1a7bf6671d1008&.jpg" width="822" height="400"></img>
